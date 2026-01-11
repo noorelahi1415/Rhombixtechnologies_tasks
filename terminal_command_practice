@@ -1,0 +1,201 @@
+  478  ls
+  479  cd project1
+  480  git --version
+  481  git config --global user.name
+  482  sudo apt purge git
+  483  git --version
+  484  sudo apt update
+  485  sudo apt install git
+  486  git --version
+  487  git config --global user.name
+  488  git config --global --unset user.Noor elahi
+  489  git config --global user.name
+  490  git config --global user.nelahi14
+  491  git config --global user.name
+  492  git config --global user.name "nelahi14"
+  493  git config --global user.name
+  494  git config --global user.email "nelahi.com@gmail.com"
+  495  git config --global user.name
+  496  git config --global user.email
+  497  history
+  498  ss -tulnp
+  499  git 
+  500  git --version
+  501  ls
+  502  pwd
+  503  ssh 
+  504  clear
+  505  cd /etc.shh
+  506  cd /etc/.ssh
+  507  cd /.ssh
+  508  cat ~/.ssh/id_ed25519.pub~
+  509  ssh-keygen -t rsa 
+  510  eval "$(ssh-agent -s)"
+  511  ssh-add ~/.ssh/id_ed25519
+  512  cd /home/noor/.ssh/id_rsa.pub
+  513  cd /home/noor/.ssh/
+  514  ssh-add ~/.ssh/id_ed25519
+  515  ls
+  516  ssh-add ~/.ssh/id_ed25519
+  517  cat id_rsa.pub
+  518  clear
+  519  cd
+  520  pwd
+  521  mkdir rhombox_project
+  522  cd rhombox_project
+  523  ls
+  524  cleae
+  525  clear
+  526  cd .ssh/
+  527  cd
+  528  cd /.ssh/
+  529  cd /.ssh
+  530  cd  ~/.ssh/id_ed25519
+  531  cd  ~/.ssh/
+  532  ls
+  533  git clone git@github.com:noorelahi1415/Rhombixtechnologies_tasks.git
+  534  ls
+  535  rm -rf Rhombixtechnologies_tasks
+  536  cd 
+  537  pwd
+  538  ls
+  539  cd rhombox_project
+  540  git clone git@github.com:noorelahi1415/Rhombixtechnologies_tasks.git
+  541  ls
+  542  cd Rhombixtechnologies_tasks
+  543  ls
+  544  git status
+  545  git init .
+  546  ls -a
+  547  clear
+  548  git remote add origin git@github.com:noorelahi1415/Rhombixtechnologies_tasks.git
+  549  clea4
+  550  clea4
+  551  clear
+  552  vim rhombox_project1_task
+  553  ls
+  554  git status
+  555  ls
+  556  ls -a 
+  557  cd 
+  558  cd rhombox_project/Rhombixtechnologies_tasks
+  559  ls
+  560  pwd
+  561  history
+  562  cd ..
+  563  ls
+  564  cd ..
+  565  ls
+  566  pwd
+  567  cd Downloads
+  568  ls
+  569  cat Myproject1
+  570  cd Myproject1
+  571  ls
+  572  clear
+  573  cd rhombox_project/Rhombixtechnologies_tasks
+  574  cd
+  575  cd rhombox_project/Rhombixtechnologies_tasks
+  576  ls
+  577  cd rhombox_project1_task
+  578  ls
+  579  clear
+  580  clear
+  581  ls
+  582  vim rhombox_project1_task
+  583  git status
+  584  ls 
+  585  history
+  586  ls
+  587   touch terminal_command_practice
+  588  ls
+  589  vim  499  git 
+  590    500  git --version
+  591    501  ls
+  592    502  pwd
+  593    503  ssh 
+  594    504  clear
+  595    505  cd /etc.shh
+  596    506  cd /etc/.ssh
+  597    507  cd /.ssh
+  598    508  cat ~/.ssh/id_ed25519.pub~
+  599    509  ssh-keygen -t rsa 
+  600    510  eval "$(ssh-agent -s)"
+  601    511  ssh-add ~/.ssh/id_ed25519
+  602    512  cd /home/noor/.ssh/id_rsa.pub
+  603    513  cd /home/noor/.ssh/
+  604    514  ssh-add ~/.ssh/id_ed25519
+  605    515  ls
+  606    516  ssh-add ~/.ssh/id_ed25519
+  607    517  cat id_rsa.pub
+  608    518  clear
+  609    519  cd
+  610    520  pwd
+  611    521  mkdir rhombox_project
+  612    522  cd rhombox_project
+  613    523  ls
+  614    524  cleae
+  615    525  clear
+  616    526  cd .ssh/
+  617    527  cd
+  618    528  cd /.ssh/
+  619    529  cd /.ssh
+  620    530  cd  ~/.ssh/id_ed25519
+  621    531  cd  ~/.ssh/
+  622    532  ls
+  623    533  git clone git@github.com:noorelahi1415/Rhombixtechnologies_tasks.git
+  624    534  ls
+  625    535  rm -rf Rhombixtechnologies_tasks
+  626    536  cd 
+  627    537  pwd
+  628    538  ls
+  629    539  cd rhombox_project
+  630    540  git clone git@github.com:noorelahi1415/Rhombixtechnologies_tasks.git
+  631    541  ls
+  632    542  cd Rhombixtechnologies_tasks
+  633    543  ls
+  634    544  git status
+  635    545  git init .
+  636    546  ls -a
+  637    547  clear
+  638    548  git remote add origin git@github.com:noorelahi1415/Rhombixtechnologies_tasks.git
+  639    549  clea4
+  640    550  clea4
+  641    551  clear
+  642    552  vim rhombox_project1_task
+  643    553  ls
+  644    554  git status
+  645    555  ls
+  646    556  ls -a 
+  647    557  cd 
+  648    558  cd rhombox_project/Rhombixtechnologies_tasks
+  649    559  ls
+  650    560  pwd
+  651    561  history
+  652    562  cd ..
+  653    563  ls
+  654    564  cd ..
+  655    565  ls
+  656    566  pwd
+  657    567  cd Downloads
+  658    568  ls
+  659    569  cat Myproject1
+  660    570  cd Myproject1
+  661    571  ls
+  662    572  clear
+  663    573  cd rhombox_project/Rhombixtechnologies_tasks
+  664    574  cd
+  665    575  cd rhombox_project/Rhombixtechnologies_tasks
+  666    576  ls
+  667    577  cd rhombox_project1_task
+  668    578  ls
+  669    579  clear
+  670    580  clear
+  671    581  ls
+  672    582  vim rhombo
+  673  s
+  674  ls
+  675  vim terminal_command_practice
+  676  ls
+  677  history
+

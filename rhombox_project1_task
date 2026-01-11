@@ -1,0 +1,42 @@
+# file basic command 
+
+1= (ls) list of file in preent working directory 
+2= (ls -a) for hidden file
+
+3= (ll)  detail about file list
+
+4= (cd)  change directory
+
+5= (pwd)  present working directory 
+
+6= (cd ..) go back to previous folder 
+
+7= (mkdir ) creating a folder (rm -rf force fully delete folder)
+
+8= (touch) creating file 
+
+9= (vi, vim, nano etc) this are the file editor
+
+10= (cat for content of file, and echo is print of file ) (rm remove file)
+
+# file permmission command
+
+11= (chmod) is the file permission such as (chmod 744 filename)(4 read, 1 execute , 2 write ) (owner , group and others)
+
+12= (chown ) change file ownership such as (chown noor:devops rhombox_project1_tasks)
+
+# System Resourse Command
+
+13= (top,htop)  show system process and cpu usage
+
+14= (df -h) show disk space 
+
+15=(free -h ) show memery usage 
+
+
+#package installation
+16=(apt install, update, upgrade, install) such as (sudo apt update , apt upgrade, apt-get install , get mean bring frominternet if not available)
+
+
+#service management
+17=(systemctl status apache,nginx,etc, start, stop, enabled)
